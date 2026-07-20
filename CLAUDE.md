@@ -1,0 +1,9 @@
+- Python: idiomatic modern style.
+- Code in English only.
+- No code comments.
+- No unit tests or doc edits unless explicitly requested.
+- Don't verify build/run; I'll check myself.
+- Never touch files outside the project dir; if a task needs it, stop and ask.
+- No sudo, global installs, or global config changes.
+- No destructive commands without asking first.
+- Prefer one fixed, mechanical team convention over per-case "cleanest" choices.
